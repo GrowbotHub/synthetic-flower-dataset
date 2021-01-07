@@ -1,0 +1,59 @@
+#
+# Wavefront material file
+# Converted by Meshlab Group
+#
+
+newmtl material_0
+Ka 0.200000 0.200000 0.200000
+Kd 0.694118 0.694118 0.694118
+Ks 1.000000 1.000000 1.000000
+Tr 1.000000
+illum 2
+Ns 0.000000
+map_Kd FL22stm.tif
+
+newmtl material_1
+Ka 0.200000 0.200000 0.200000
+Kd 0.694118 0.694118 0.694118
+Ks 1.000000 1.000000 1.000000
+Tr 1.000000
+illum 2
+Ns 0.000000
+map_Kd FL22lef.tif
+
+newmtl material_2
+Ka 0.200000 0.200000 0.200000
+Kd 0.694118 0.694118 0.694118
+Ks 1.000000 1.000000 1.000000
+Tr 1.000000
+illum 2
+Ns 0.000000
+map_Kd FL22sta1.tif
+
+newmtl material_3
+Ka 0.200000 0.200000 0.200000
+Kd 0.164706 0.000000 0.266667
+Ks 1.000000 1.000000 1.000000
+Tr 1.000000
+illum 2
+Ns 0.000000
+map_Kd FL22stm.tif
+
+newmtl material_4
+Ka 0.200000 0.200000 0.200000
+Kd 0.666667 0.666667 0.494118
+Ks 1.000000 1.000000 1.000000
+Tr 1.000000
+illum 2
+Ns 0.000000
+map_Kd FL22stm.tif
+
+newmtl material_5
+Ka 0.200000 0.200000 0.200000
+Kd 0.694118 0.694118 0.694118
+Ks 1.000000 1.000000 1.000000
+Tr 1.000000
+illum 2
+Ns 0.000000
+map_Kd FL22pet1.tif
+
